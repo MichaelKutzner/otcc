@@ -1,5 +1,5 @@
 +++
-title = "Programm"
+title = "Program"
 +++
 
-Hier kommen Informationen zum Rahmenprogramm
+Details to the social program will be here.

@@ -6,18 +6,18 @@ section_path = "otcc2025/_index.md"
 max_posts = 5
 +++
 
-Willkommen auf der Webseite zur OTCC!
+Welcome to the OTCC website!
 
-Die OTCC bietet der Open Transport Community die Möglichkeit zum persönlichen Austausch und der gemeinsamen Arbeit an spannenden Projekten.
+OTCC is an Open Transport Community event, designed for persona meetup, exchange and collaborative work on exciting projects.
 
-Du befasst dich mit Open Transport, möchtest Daten zur Verfügung stellen sowie deren Qualität sicherstellen, arbeitest an einer technischen Lösung und hast Themen, die du mit der Community besprechen möchtest, dann komm zur OTCC!
+You are working in Open Transport, want to provide data, ensure its quality, are developing tools and are looking for exchange on related topics with the community? Visit the OTCC!
 
-Wir bieten dir die Gelegenheit:
+What to expect?
 
-* Die Community zu treffen
-* Dein Projekt vorzustellen
-* Neue Projekte kennenzulernen
-* Die Teilnahme an Mini-Workshops
-* Diskussionsmöglichkeiten
-* Ein spannendes Rahmenprogramm
+* Meet the community
+* Present your project
+* Learn about new projects
+* Participate on mini workshops
+* Discussions
+* An exciting social program
 * …

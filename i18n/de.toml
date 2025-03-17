@@ -1,0 +1,112 @@
+# Custom translations and modification
+# General
+language_name = "🇩🇪 Deutsch"  # Shown in language picker for multi-language sites.
+
+# Menu items
+news = "Neuigkeiten"
+program = "Programm"
+about = "Über"
+contact = "Kontakt"
+
+# Copy file from theme
+
+
+# This has been machine translated.
+# If you would like to help correct errors or improve the translation,
+# please open an issue or submit a pull request.
+# https://github.com/welpo/tabi
+# language_name = "Deutsch"  # Shown in language picker for multi-language sites.
+date_locale = "de_DE"
+full_stop = "."  #  Used at the end of a sentence.
+
+# Menu items.
+# Should match the names in config.extra.menu and config.extra.footer_menu.
+blog = "blog"
+archive = "archiv"
+tags = "tags"
+projects = "projekte"
+# about = "über"
+# contact = "kontakt"
+privacy = "datenschutzrichtlinie"
+site_statistics = "seitenstatistiken"
+sitemap = "seitenübersicht"
+
+# Search.
+search = "Suchen"
+search_icon_title = "Klicken oder $SHORTCUT drücken, um die Suche zu öffnen"  # $SHORTCUT will be replaced with the actual keyboard shortcut.
+clear_search = "Suche löschen"  # Title of the X icon next to search input.
+zero_results = "Keine Ergebnisse gefunden"
+one_results = "$NUMBER Ergebnis"  # "1 result"
+many_results = "$NUMBER Ergebnisse"  # "3 results"
+
+# Navigation.
+pinned = "Angeheftet"
+jump_to_posts = "Zu den Beiträgen springen"
+read_more = "Weiterlesen"
+one_posts = "$NUMBER Beitrag"
+many_posts = "$NUMBER Beiträge"
+prev = "Vorherig"  # As in "Previous" page.
+next = "Nächst"  # As in "Next" page.
+of = "von"  # E.g. Page 1 "of" 3
+all_posts = "Alle Beiträge"
+all_tags = "Alle Tags"
+all_projects = "Alle Projekte"
+featured_projects = "Empfohlene Projekte"
+language_selection = "Sprachauswahl"
+toggle_mode = "Wechsle in den $MODE Modus"  # $MODE will be replaced by a value (or both) below.
+dark = "dunkel"
+light = "hell"
+reset_mode = "Modus auf Standard zurücksetzen"
+
+# Quick navigation buttons.
+toggle_toc = "Inhaltsverzeichnis ein-/ausblenden"
+go_to_top = "Zum Seitenanfang"
+go_to_comments = "Zum Kommentarbereich"
+
+# Post metadata.
+by_author = "Von $AUTHOR"  # $AUTHOR will be replaced by the author(s).
+author_separator = ", "  # For multiple authors. Ensure spacing where necessary.
+author_conjunction = " und "  # For multiple authors. Ensure spacing where necessary.
+draft = "ENTWURF"
+zero_min_read = "weniger als 1 Min. Lesezeit"
+one_min_read = "$NUMBER Min. Lesezeit"
+many_min_read = "$NUMBER Min. Lesezeit"
+zero_words = "Keine Wörter"
+one_words = "$NUMBER Wort"
+many_words = "$NUMBER Wörter"
+last_updated_on = "Aktualisiert am $DATE"
+see_changes = "Änderungen anzeigen"
+
+# Post body.
+table_of_contents = "Inhaltsverzeichnis"
+load_comments = "Kommentare laden"
+
+# Copy code block button.
+copied = "Kopiert!"
+copy_code_to_clipboard = "Code in die Zwischenablage kopieren"
+
+# Footer.
+powered_by = "Angetrieben von"
+and = "und"
+site_source = "Quellcode der Seite"
+
+# 404 error.
+# https://welpo.github.io/tabi/404.html
+page_missing = "Die Seite, die du angefordert hast, scheint nicht zu existieren"
+translation_missing = "oder wurde noch nicht in deine Sprache übersetzt"
+check_url = "Überprüfe die URL auf Fehler oder"
+go_home = "zurück zur Startseite gehen"
+
+# For multilingual quote shortcode.
+# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+show_original_quote = "Originalzitat anzeigen"
+show_translation = "Übersetzung anzeigen"
+open_quotation_mark = "„"
+close_quotation_mark = "“"
+
+# Translations for stylised Atom feed.
+# https://welpo.github.io/tabi/atom.xml
+# Must contain "About Feeds"; it will become a link.
+about_feeds = "Dies ist ein Web-Feed, auch bekannt als Atom-Feed. Abonnieren Sie, indem Sie die URL aus der Adressleiste in Ihren Nachrichtenleser kopieren. Besuchen Sie About Feeds, um mehr zu erfahren und loszulegen. Es ist kostenlos."
+visit_the_site = "Besuchen Sie die Webseite"
+recent_posts = "Aktuelle Beiträge"

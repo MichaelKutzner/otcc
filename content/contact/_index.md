@@ -1,6 +1,6 @@
 +++
-title = "Kontakt"
+title = "Contact"
 +++
 
-Feedback, Fragen und Anregungen bitte über die bekannten Kanäle:
-_TODO Link einfügen_
+Feedback, questions and suggestions can be provided via known channels:
+_TODO Insert link_

@@ -3,7 +3,7 @@ title = "OpenTransportCommunityConference"
 paginate_by = 5
 
 [extra]
-header = { title = "Willkommen zur OTCC! 👋", img = "images/logo.png", img_alt = "Logo zur OTCC" }
+header = { title = "Welcome to OTCC! 👋", img = "images/logo.png", img_alt = "OTCC logo" }
 +++
 
-Hier findet Ihr die aktuellen Informationen zur OTCC.
+This page contains all OTCC news.

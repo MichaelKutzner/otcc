@@ -1,11 +1,9 @@
 +++
-title = "Über die OTCC"
+title = "About OTCC"
 +++
 
-Kurze Beschreibung
-
-Ziel der OTCC ist es Personen aus allen Bereichen des Open-Transports zusammen zu bringen und Themen zu besprechen, welche bei ähnlichen Veranstaltungen häufig vernachlässigt werden.
-Die Veranstaltung richtet sich somit an alle, welche sich privat oder beruflich mit Open Transport befassen und dazu beitragen wollen Lösungen zu entwickeln und verbessern.
+The OTCC intends to bring people together from all areas of Open Transport and to provide discussions on topics, that are often neglected by similar events.
+Therefore this event is for everyone, who works in Open Transport, either voluntary or commercial, and wants to design and improve existing solutions.
 
 
-Die Idee hierzu entstand, da andere Konferenzen nur eingeschränkte Möglichkeiten bieten sich mit Interessierten auszutauschen.
+The event was created, as opportunities for exchange with other peoples in the community were limited on other conferences.

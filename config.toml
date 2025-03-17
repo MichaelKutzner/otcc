@@ -13,6 +13,13 @@ theme = "tabi"
 # Settings required by tabi
 title = "OpenTransportCommunityConference"
 
+default_language = "en"
+
+# Settings for German localization
+[languages.de]
+build_search_index = true
+title = "OpenTransportCommunityConference"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -33,3 +40,11 @@ menu = [
 
 # Set favicon
 favicon = "images/logo.png"
+
+[translations]
+banner_subtitle = "From the community, for the community"
+event_date = "October 17 – 18 2025"
+
+[languages.de.translations]
+banner_subtitle = "Von der Community, für die Community"
+event_date = "17. – 18. Oktober 2025"
