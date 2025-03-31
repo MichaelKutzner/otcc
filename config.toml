@@ -33,7 +33,7 @@ copyright = "Copyright &copy; 2025"
 
 # Navigation entries used by tabi
 menu = [
-    { name = "news", url = "otcc2025", trailing_slash = true },
+    { name = "news", url = "event2025", trailing_slash = true },
     { name = "program", url = "program", trailing_slash = true },
     { name = "about", url = "about", trailing_slash = true },
     { name = "contact", url = "contact", trailing_slash = true },

@@ -1,8 +1,8 @@
 +++
-title = "About OTCC"
+title = "About Open Transport Community Conference"
 +++
 
-The OTCC intends to bring people together from all areas of Open Transport and to provide discussions on topics, that are often neglected by similar events.
+The Open Transport Community Conference intends to bring people together from all areas of Open Transport and to provide discussions on topics, that are often neglected by similar events.
 Therefore this event is for everyone, who works in Open Transport, either voluntary or commercial, and wants to design and improve existing solutions.
 
 
