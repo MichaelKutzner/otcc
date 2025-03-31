@@ -3,4 +3,6 @@ title = "Kontakt"
 +++
 
 Feedback, Fragen und Anregungen bitte über die bekannten Kanäle:
-_TODO Link einfügen_
+
+* [#opentransport:matrix.org](https://matrix.to/#/#opentransport:matrix.org)
+* [GitHub](https://github.com/MichaelKutzner/otcc)

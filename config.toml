@@ -29,6 +29,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+copyright = "Copyright &copy; 2025"
 
 # Navigation entries used by tabi
 menu = [
@@ -38,13 +39,20 @@ menu = [
     { name = "contact", url = "contact", trailing_slash = true },
 ]
 
+footer_menu = [
+    { name = "imprint", url = "imprint", trailing_slash = true },
+    { name = "contact", url = "contact", trailing_slash = true },
+]
+
 # Set favicon
 favicon = "images/logo.png"
 
 [translations]
-banner_subtitle = "From the community, for the community"
+banner_subtitle = "A conference from the community for the community."
 event_date = "October 17 – 18 2025"
+event_location = "Vienna at ÖBB's Open Innovation Factory!"
 
 [languages.de.translations]
-banner_subtitle = "Von der Community, für die Community"
+banner_subtitle = "Eine Konferenz von der Community, für die Community."
 event_date = "17. – 18. Oktober 2025"
+event_location = "Wien, ÖBB Open Innovation Factory!"

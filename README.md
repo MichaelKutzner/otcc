@@ -26,7 +26,7 @@ The following code assumes it has been added to your `PATH`.
 Clone the repository and initialize the submodules.
 
 ```sh
-git clone https://github.com/public-transport/open-transport-community-conference
+git clone https://github.com/MichaelKutzner/otcc
 cd open-transport-community-conference
 git submodule update --init --recursive
 ```

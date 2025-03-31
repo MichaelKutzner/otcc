@@ -1,11 +1,15 @@
 <div class="banner">
     <table>
         <tr>
-            <td rowspan="2">{% include "logo.html" %}</td>
+            <td><img src={{ get_url(path="images/logo.png") }} alt="Logo" /></td>
+        </tr>
+        <tr><td></td></tr>
+        <tr>
             <td>
                 <h2>{{config.title}}</h2>
                 <b>Save the date</b>
-                {{ trans(key="event_date", lang=lang) }}
+                {{ trans(key="event_date", lang=lang) }} <br/>
+                {{ trans(key="event_location", lang=lang) }}
             </td>
         </tr>
         <tr>
