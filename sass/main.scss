@@ -1,0 +1,17 @@
+@import "../themes/tabi/sass/main.scss";
+
+div.talk details {
+    border-radius: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding: 7px;
+    background-color: light-dark(var(--primary-color), #3c8c3c);
+}
+div.talk p {
+    border: 1px solid black;
+    border-radius: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-bottom: 7px;
+    background-color: light-dark(color-mix(in srgb, var(--primary-color) 80%, white), #2c7c2c);
+}

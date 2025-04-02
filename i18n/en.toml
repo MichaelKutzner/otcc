@@ -5,6 +5,7 @@ language_name = "🇬🇧 English"  # Shown in language picker for multi-languag
 # Menu items
 news = "News"
 program = "Program"
+talks = "Talks"
 about = "About"
 contact = "Contact"
 imprint = "Imprint"
