@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://MichaelKutzner.github.io/otcc/sitemap.xml
