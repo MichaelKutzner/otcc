@@ -15,3 +15,9 @@ div.talk p {
     margin-bottom: 7px;
     background-color: light-dark(color-mix(in srgb, var(--primary-color) 80%, white), #2c7c2c);
 }
+div.talk summary {
+    list-style-type: '▾ ';
+}
+div.talk details[open] > summary {
+    list-style-type: '▴ ';
+}
