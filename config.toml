@@ -36,13 +36,13 @@ menu = [
     { name = "news", url = "event2025", trailing_slash = true },
     { name = "program", url = "program", trailing_slash = true },
     { name = "talks", url = "talks" },
-    { name = "about", url = "about", trailing_slash = true },
+    { name = "about", url = "about" },
     { name = "contact", url = "contact", trailing_slash = true },
 ]
 
 footer_menu = [
-    { name = "imprint", url = "imprint", trailing_slash = true },
-    { name = "contact", url = "contact", trailing_slash = true },
+    { name = "imprint", url = "imprint" },
+    { name = "contact", url = "contact" },
 ]
 skin = "indigo_ingot"
 
